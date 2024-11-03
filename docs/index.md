@@ -20,6 +20,6 @@ this is the second version
 
 
 * I learned from [Gabor Szabo](https://github.szabgab.com/)
-* I am a PhD student at [Wizmmann Institute of Science](https://www.weizmann.ac.il/pages/)
+* I am a PhD student at [Wizmann Institute of Science](https://www.weizmann.ac.il/pages/)
 
 ![Dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyXeKDN29AmZgZPLS7n0Bepe8QmVappBwZCeA3XWEbWNdiDFB)
