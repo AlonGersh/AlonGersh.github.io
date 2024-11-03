@@ -16,6 +16,8 @@ this is the second version
 * [about]
 * (about)
 * [about](about.md)
+* [about](/about)
+
 
 * I learned from [Gabor Szabo](https://github.szabgab.com/)
 
