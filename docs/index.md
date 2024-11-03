@@ -18,3 +18,5 @@ this is the second version
 * [about](about.md)
 
 * I learned from [Gabor Szabo](https://github.szabgab.com/)
+
+![Dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyXeKDN29AmZgZPLS7n0Bepe8QmVappBwZCeA3XWEbWNdiDFB)
