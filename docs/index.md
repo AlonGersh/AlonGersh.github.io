@@ -27,7 +27,7 @@
 * Reading psychology books
 
 
-#### I learned from [Gabor Szabo](https://github.szabgab.com/)
+#### I learned from [Gabor Szabo](https://szabgab.com/)
 
 
 ### forth
