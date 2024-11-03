@@ -10,7 +10,7 @@
 * Collaborated with academic and industry partners 
 * Fascinated with stem-cells and their intersection with food science 
 
-## <Education>
+## _Education_
 ### The Hebrew University of Jerusalem 2021-2024
 #### *M.Sc., Animal Sciences, GPA: 97.12/100*
 * Thesis: “Growth and myogenic differentiation of bovine mesenchymal stem cells on anisotropic cellulose-collagen scaffolds for cultured meat applications”
