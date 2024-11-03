@@ -1,16 +1,14 @@
 # Alon Gershkoviz
 ![file](https://github.com/user-attachments/assets/a2e8e8ef-1b38-4c72-b678-9260cdc35fa1)
 
-PhD student at [Wizmann Institute of Science](https://www.weizmann.ac.il/pages/)
+* PhD student at [Wizmann Institute of Science](https://www.weizmann.ac.il/pages/)
 
-Strong background in tissue culture (2D & 3D) and scaffold development 
-Experienced in optimization of myogenic differentiation of bovine mesenchymal stem cells (bMSCs) 
-Successfully developed cellulose based scaffolds that support bMSCs growth and differentiation. 
-Led from plan to execution a multidisciplinary project under the Israel Innovation Authority's Cultured Meat Consortium 
-Collaborated with academic and industry partners 
-Fascinated with stem-cells and their intersection with food science 
-
-this is the second version 
+* Strong background in tissue culture (2D & 3D) and scaffold development 
+* Experienced in optimization of myogenic differentiation of bovine mesenchymal stem cells (bMSCs) 
+* Successfully developed cellulose based scaffolds that support bMSCs growth and differentiation. 
+* Led from plan to execution a multidisciplinary project under the Israel Innovation Authority's Cultured Meat Consortium 
+* Collaborated with academic and industry partners 
+* Fascinated with stem-cells and their intersection with food science 
 
 ## Hobbies
 * Playing the guitar
