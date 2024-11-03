@@ -19,7 +19,7 @@
 ### The Hebrew University of Jerusalem 2018-2021
 *B.Sc., magna cum laude, Biochemistry, Food Science & Biotechnology, GPA: 94.8/100*
 
-## Hobbies
+## **Hobbies**
 * Playing the guitar
 * Exploring new cooking techniques
 * Swing dancing
