@@ -1,5 +1,6 @@
 # Alon Gershkoviz
-![Alon Gershkoviz Picture (1)](![file](https://github.com/user-attachments/assets/a2e8e8ef-1b38-4c72-b678-9260cdc35fa1)
+![file](https://github.com/user-attachments/assets/a2e8e8ef-1b38-4c72-b678-9260cdc35fa1)
+
 
 this is the second version 
 
