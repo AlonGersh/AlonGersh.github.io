@@ -24,6 +24,10 @@
 * Hiking
 * Reading psychology books
 
+
+#### I learned from [Gabor Szabo](https://github.szabgab.com/)
+
+
 ### forth
 
 * apple
