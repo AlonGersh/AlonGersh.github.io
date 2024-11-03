@@ -9,7 +9,13 @@
 * Led from plan to execution a multidisciplinary project under the Israel Innovation Authority's Cultured Meat Consortium 
 * Collaborated with academic and industry partners 
 * Fascinated with stem-cells and their intersection with food science 
-
+## Education
+### The Hebrew University of Jerusalem Oct. 2021-Present
+#### M.Sc., Animal Sciences, GPA: 97.12/100 Rehovot, Israel
+▪ Thesis: “Growth and myogenic differentiation of bovine mesenchymal stem cells on anisotropic cellulose-collagen scaffolds for cultured meat applications”
+▪ Advisors: Dr. Sharon Schlesinger and Prof. Oded Shoseyov
+The Hebrew University of Jerusalem Oct. 2018-July 2021
+B.Sc., magna cum laude, Biochemistry, Food Science & Biotechnology, GPA: 94.8/100 Rehovot, Israel
 ## Hobbies
 * Playing the guitar
 * Exploring new cooking techniques
