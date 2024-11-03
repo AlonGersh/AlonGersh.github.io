@@ -6,6 +6,9 @@ this is the second version
 
 ### forth
 
-*apple
-*banana
-*peach
+* apple
+* banana
+* peach
+
+1. test
+2. test again
