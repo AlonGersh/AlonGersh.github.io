@@ -12,12 +12,11 @@
 
 ## Education
 ### The Hebrew University of Jerusalem 2021-2024
-#### *M.Sc., Animal Sciences, GPA: 97.12/100 Rehovot, Israel*
+#### *M.Sc., Animal Sciences, GPA: 97.12/100*
 * Thesis: “Growth and myogenic differentiation of bovine mesenchymal stem cells on anisotropic cellulose-collagen scaffolds for cultured meat applications”
 * Advisors: Dr. Sharon Schlesinger and Prof. Oded Shoseyov
-#### *The Hebrew University of Jerusalem 2018-2021*
-* B.Sc., magna cum laude, Biochemistry, Food Science & Biotechnology, GPA: 94.8/100 Rehovot, Israel
-
+#### The Hebrew University of Jerusalem 2018-2021
+*B.Sc., magna cum laude, Biochemistry, Food Science & Biotechnology, GPA: 94.8/100*
 ## Hobbies
 * Playing the guitar
 * Exploring new cooking techniques
