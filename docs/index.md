@@ -1,5 +1,4 @@
 # Alon Gershkoviz
-
 ![Alon Gershkoviz Picture (1)](https://github.com/user-attachments/assets/f33ef21f-ed92-4fdf-82f6-82572db2afbf)
 
 this is the second version 
