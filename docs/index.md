@@ -5,7 +5,7 @@ PhD student at [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/
 
 ### Fascinated with stem-cells and their intersection with food science 
 
-I have a Strong background in tissue culture (2D & 3D) and scaffold development. During my, masters I optimization the  myogenic differentiation of bovine mesenchymal stem cells (bMSCs) and successfully developed cellulose based scaffolds that support their growth and differentiation. I Led from plan to execution a multidisciplinary project under the Israel Innovation Authority's Cultured Meat Consortium  and collaborated with academic and industry partners.
+I have a Strong background in tissue culture (2D & 3D) and scaffold development. During my, masters I have optimized the  myogenic differentiation of bovine mesenchymal stem cells (bMSCs) and successfully developed cellulose based scaffolds that support their growth and differentiation. I Led from plan to execution a multidisciplinary project under the Israel Innovation Authority's Cultured Meat Consortium  and collaborated with academic and industry partners.
 
 ## **Education**
 ### The Hebrew University of Jerusalem 2021-2024
