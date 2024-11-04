@@ -1,5 +1,5 @@
 _Alon Gershkoviz_
-![file](https://github.com/user-attachments/assets/a2e8e8ef-1b38-4c72-b678-9260cdc35fa1)
+![Alon Gershkoviz Picture](https://github.com/user-attachments/assets/002e6167-51d5-4c10-85a4-e4ddae8f6760)
 
 * PhD student at [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/)
 
