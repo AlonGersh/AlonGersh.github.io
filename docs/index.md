@@ -1,4 +1,4 @@
-_Alon Gershkoviz_
+# _Alon Gershkoviz_
 ![Alon Gershkoviz Picture](https://github.com/user-attachments/assets/002e6167-51d5-4c10-85a4-e4ddae8f6760)
 
 * PhD student at [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/)
@@ -19,14 +19,9 @@ _Alon Gershkoviz_
 ### The Hebrew University of Jerusalem 2018-2021
 *B.Sc., magna cum laude, Biochemistry, Food Science & Biotechnology, GPA: 94.8/100*
 
-## **Hobbies**
-* Playing the guitar
-* Exploring new cooking techniques
-* Swing dancing
-* Hiking
-* Reading psychology books
+## **And when I dont work**
+I Enjoy playing the guitar, exploring new cooking techniques, dance swing and hike
 
-
-#### I learned from [Gabor Szabo](https://szabgab.com/)
+#### I learned how to build this site from [Gabor Szabo](https://szabgab.com/)
 
 ![Dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyXeKDN29AmZgZPLS7n0Bepe8QmVappBwZCeA3XWEbWNdiDFB)
