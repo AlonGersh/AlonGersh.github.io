@@ -19,7 +19,7 @@
 ### The Hebrew University of Jerusalem 2018-2021
 *B.Sc., magna cum laude, Biochemistry, Food Science & Biotechnology, GPA: 94.8/100*
 
-## **And when I dont work**
+## **And when I don't work...**
 I Enjoy playing the guitar, exploring new cooking techniques, dance swing and hike
 
 #### I learned how to build this site from [Gabor Szabo](https://szabgab.com/)
