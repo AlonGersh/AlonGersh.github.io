@@ -1,4 +1,4 @@
-# _Alon Gershkoviz_
+_Alon Gershkoviz_
 ![file](https://github.com/user-attachments/assets/a2e8e8ef-1b38-4c72-b678-9260cdc35fa1)
 
 * PhD student at [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/)
