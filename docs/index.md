@@ -1,7 +1,7 @@
 # _Alon Gershkoviz_
 ![Alon Gershkoviz Picture](https://github.com/user-attachments/assets/002e6167-51d5-4c10-85a4-e4ddae8f6760)
 
-PhD student at [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/)
+PhD student at [Weizmann Institute of Science]([https://www.weizmann.ac.il/pages/](https://www.weizmann.ac.il/Biomolecular_Sciences/Avinoam/home)
 
 ### Fascinated with stem-cells and their intersection with food science 
 
