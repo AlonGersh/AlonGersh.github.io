@@ -17,7 +17,7 @@ I have a Strong background in tissue culture (2D & 3D) and scaffold development.
 #### *B.Sc., magna cum laude, Biochemistry, Food Science & Biotechnology*
 
 ## **And when I don't work...**
-I Enjoy playing the guitar, exploring new cooking techniques, dance swing and hike
+I Enjoy playing the guitar, exploring new cooking techniques, dance swing and hike and read.
 
 #### I learned how to build this site from [Gabor Szabo](https://szabgab.com/)
 
